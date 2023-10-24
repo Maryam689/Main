@@ -1,0 +1,8 @@
+int a = 10, b = 20;
+int plus, minus;
+
+plus = a + b;
+minus = a - b;
+
+cout << plus << endl;
+cout << minus << endl;
